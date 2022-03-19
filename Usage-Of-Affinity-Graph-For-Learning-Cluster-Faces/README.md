@@ -26,14 +26,6 @@ Pretrained models are available in the [model zoo](https://github.com/SiddharthK
 
 ## Run
 
-0. Fetch code & Create soft link
-
-```bash
-git clone git@github.com:yl-1993/learn-to-cluster.git
-cd learn-to-cluster
-ln -s xxx/data data
-```
-
 1. Run algorithms
 
 Follow the instructions in [dsgcn](dsgcn/), [vegcn](vegcn/) and [lgcn](lgcn/) to run algorithms.
